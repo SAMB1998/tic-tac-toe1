@@ -1,0 +1,28 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border: 1px solid #000;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    line-height: 100px;
+  }
+  .square {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border: 2px solid #333; /* Une bordure plus foncée pour les cases */
+    font-size: 36px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    line-height: 100px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .square:hover {
+    background-color: #f0e68c; /* Une couleur d'arrière-plan au survol */
+  }
+    

@@ -1,0 +1,26 @@
+.board-row {
+    display: flex;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+  .board-row {
+    display: flex;
+  }
+  
+  .status {
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: #333; /* Couleur de texte */
+  }
+  
+  .board {
+    display: inline-block;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ajout d'une ombre portée */
+  }
+    
